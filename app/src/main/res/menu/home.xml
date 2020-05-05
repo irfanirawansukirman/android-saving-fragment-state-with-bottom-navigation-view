@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_mindorks"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_afterAcademy"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="Checkout" />
+    <item
+        android:id="@+id/navigation_user"
+        android:icon="@drawable/ic_apps_black_24dp"
+        android:title="Profile" />
+</menu>
